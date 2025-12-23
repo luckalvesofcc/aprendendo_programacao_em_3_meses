@@ -15,21 +15,14 @@ Aprendizado contínuo
 Dias 1–7 — O Essencial da Web
 
 ## Estudo
-
 Como a web funciona (HTTP)
-
 HTML semântico
-
 CSS básico (cores, box model)
-
 
 Aprendizado Você entende a estrutura do mundo. Nada mágico, tudo lógico.
 
-Prática
-
+## Prática
 Recriar a home de um site simples só com HTML + CSS
-
-
 
 ---
 
