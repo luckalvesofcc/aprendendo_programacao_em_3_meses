@@ -4,30 +4,17 @@ Aprendizado contínuo
 ## ATENÇÃO! TODO CONTEUDO ABAIXO FOI GERADO POR UMA IA.
 
 ---
-Cronograma de Estudos Front-End (90 dias)
-
----
-
-Perfeito. Agora vamos ancorar o plano no tempo, porque conhecimento sem data vira promessa vaga.
-Vou assumir janeiro, fevereiro e março de 2026, começando quinta-feira, 01/01/2026, e distribuir os 90 dias corridos exatamente como no cronograma original.
-
-Nada muda no conteúdo. Só o relógio começa a bater. ⏳
-
-
----
 
 🗓️ CRONOGRAMA FRONT-END — JANEIRO a MARÇO / 2026
-
 
 ---
 
 🌱 JANEIRO — Fundamentos como Solo Fértil
 
-📅 01/01 a 07/01 (qui → qua)
-
+# 📅 01/01 a 07/01 (qui → qua)
 Dias 1–7 — O Essencial da Web
 
-Estudo
+## Estudo
 
 Como a web funciona (HTTP)
 
