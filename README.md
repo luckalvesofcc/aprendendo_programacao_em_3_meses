@@ -26,74 +26,49 @@ Recriar a home de um site simples só com HTML + CSS
 
 ---
 
-📅 08/01 a 14/01 (qui → qua)
-
+# 📅 08/01 a 14/01 (qui → qua)
 Dias 8–14 — CSS Respira; Layout se Forma
 
-Estudo
-
+## Estudo
 Flexbox
-
 Grid
-
 Responsividade (mobile-first)
-
 
 Aprendizado Layout deixa de ser sorte. Passa a ser decisão.
 
-Projeto
-
+## Projeto
 Landing page responsiva (mobile → desktop)
-
-
 
 ---
 
-📅 15/01 a 21/01 (qui → qua)
-
+# 📅 15/01 a 21/01 (qui → qua)
 Dias 15–21 — JavaScript Essencial (Parte I)
 
-Estudo
-
+## Estudo
 Variáveis, tipos
-
 Funções
-
 Condicionais e loops
-
 
 Aprendizado Você ensina a página a pensar.
 
-Prática diária
-
+## Prática diária
 Scripts simples
-
 Manipulação básica do DOM
-
-
 
 ---
 
-📅 22/01 a 30/01 (qui → sex)
-
+# 📅 22/01 a 30/01 (qui → sex)
 Dias 22–30 — JavaScript Essencial (Parte II)
 
-Estudo
-
+## Estudo
 Eventos
-
 Arrays e objetos
-
 Fetch API
-
 Promises e async/await
 
-
-Projeto
-
-To-do list com localStorage
-
-
+## Projeto
+- To-do list com localStorage
+  
 Aqui o código começa a ter memória. E responsabilidade.
 
 
