@@ -9,9 +9,9 @@ Aprendizado contínuo
 
 ---
 
-🌱 JANEIRO — Fundamentos como Solo Fértil
+# 🌱 JANEIRO — Fundamentos como Solo Fértil
 
-# 📅 01/01 a 07/01 (qui → qua)
+> 📅 01/01 a 07/01 (qui → qua)
 Dias 1–7 — O Essencial da Web
 
 ## Estudo
@@ -97,7 +97,8 @@ Dias 38–45 — TypeScript Básico
 
 ## Prática
 - Converter o To-do List de JS para TypeScript
-- Menos bugs. Mais paz.
+
+Menos bugs. Mais paz.
 
 ---
 
@@ -125,7 +126,8 @@ Dias 53–60 — Introdução ao React
 
 ## Projeto
 - Contador interativo com histórico
-- Aqui nasce o pensamento em componentes.
+
+Aqui nasce o pensamento em componentes.
 
 ---
 
@@ -141,7 +143,8 @@ Dias 61–67 — React Profundo
 
 ## Projeto
 - Catálogo de filmes ou lista de usuários
-- Dados reais. Aplicação real.
+
+Dados reais. Aplicação real.
 
 ---
 
@@ -156,7 +159,8 @@ Dias 68–75 — Estado e Escala
 - Estado global
 - Filtros
 - Organização
-- Você aprende a não se perder em projetos grandes.
+
+Você aprende a não se perder em projetos grandes.
 
 ---
 
@@ -169,7 +173,8 @@ Dias 76–83 — Estilo no React
 
 ## Prática
 - Refatorar o visual do projeto principal
-- Código bonito também lê melhor.
+
+Código bonito também lê melhor.
 
 ---
 
@@ -187,8 +192,9 @@ Dias 84–90 — Projeto Final + Deploy
 - Vercel ou Netlify
 - GitHub organizado
 - (Opcional) domínio próprio
-- Aqui você não “termina um curso”.
-- Você entra no mercado com algo vivo.
+
+Aqui você não “termina um curso”.
+Você entra no mercado com algo vivo.
 
 ---
 
