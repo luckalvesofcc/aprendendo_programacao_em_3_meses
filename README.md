@@ -26,7 +26,7 @@ Aprendizado Você entende a estrutura do mundo. Nada mágico, tudo lógico.
 
 ---
 
-# 📅 08/01 a 14/01 (qui → qua)
+> 📅 08/01 a 14/01 (qui → qua)
 Dias 8–14 — CSS Respira; Layout se Forma
 
 ## Estudo
@@ -41,7 +41,7 @@ Aprendizado Layout deixa de ser sorte. Passa a ser decisão.
 
 ---
 
-# 📅 15/01 a 21/01 (qui → qua)
+> 📅 15/01 a 21/01 (qui → qua)
 Dias 15–21 — JavaScript Essencial (Parte I)
 
 ## Estudo
@@ -57,7 +57,7 @@ Aprendizado Você ensina a página a pensar.
 
 ---
 
-# 📅 22/01 a 30/01 (qui → sex)
+> 📅 22/01 a 30/01 (qui → sex)
 Dias 22–30 — JavaScript Essencial (Parte II)
 
 ## Estudo
@@ -75,7 +75,7 @@ Aqui o código começa a ter memória. E responsabilidade.
 
 🔧 FEVEREIRO — Imersão e Aplicação
 
-# 📅 31/01 a 06/02 (sáb → sex)
+> 📅 31/01 a 06/02 (sáb → sex)
 Dias 31–37 — Ferramentas de Desenvolvimento
 
 ## Estudo
@@ -87,7 +87,7 @@ Aprendizado Você passa de estudante para profissional em treino.
 
 ---
 
-# 📅 07/02 a 14/02 (sáb → sáb)
+> 📅 07/02 a 14/02 (sáb → sáb)
 Dias 38–45 — TypeScript Básico
 
 ## Estudo
@@ -102,7 +102,7 @@ Menos bugs. Mais paz.
 
 ---
 
-# 📅 15/02 a 21/02 (dom → sáb)
+> 📅 15/02 a 21/02 (dom → sáb)
 Dias 46–52 — NPM, Builds, Empacotadores
 
 ## Estudo
@@ -115,7 +115,7 @@ Aprendizado Você entende como o código vira produto.
 
 ---
 
-# 📅 22/02 a 01/03 (dom → dom)
+> 📅 22/02 a 01/03 (dom → dom)
 Dias 53–60 — Introdução ao React
 
 ## Estudo
@@ -131,9 +131,9 @@ Aqui nasce o pensamento em componentes.
 
 ---
 
-⚛️ MARÇO — Especialização e Portfólio
+# ⚛️ MARÇO — Especialização e Portfólio
 
-# 📅 02/03 a 08/03 (seg → dom)
+> 📅 02/03 a 08/03 (seg → dom)
 Dias 61–67 — React Profundo
 
 ## Estudo
@@ -148,7 +148,7 @@ Dados reais. Aplicação real.
 
 ---
 
-# 📅 09/03 a 16/03 (seg → seg)
+> 📅 09/03 a 16/03 (seg → seg)
 Dias 68–75 — Estado e Escala
 
 ## Estudo
@@ -164,7 +164,7 @@ Você aprende a não se perder em projetos grandes.
 
 ---
 
-# 📅 17/03 a 24/03 (ter → ter)
+> 📅 17/03 a 24/03 (ter → ter)
 Dias 76–83 — Estilo no React
 
 ## Estudo
@@ -178,7 +178,7 @@ Código bonito também lê melhor.
 
 ---
 
-# 📅 25/03 a 31/03 (qua → ter)
+> 📅 25/03 a 31/03 (qua → ter)
 Dias 84–90 — Projeto Final + Deploy
 
 ## Projeto Final
