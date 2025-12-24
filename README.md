@@ -216,5 +216,4 @@ Você vai abrir o navegador, olhar para a tela e pensar:
 
 # CV de página única
 Crie um currículo HTML de uma página para mostrar seu histórico profissional
-
-https://roadmap.sh/projects/single-page-cv
+> https://roadmap.sh/projects/single-page-cv
