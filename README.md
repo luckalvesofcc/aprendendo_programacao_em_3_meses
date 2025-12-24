@@ -211,3 +211,10 @@ Quando março acabar, você não vai perguntar “o que é front-end?”
 Você vai abrir o navegador, olhar para a tela e pensar:
 
 > isso eu sei construir.
+
+---
+
+# CV de página única
+Crie um currículo HTML de uma página para mostrar seu histórico profissional
+
+https://roadmap.sh/projects/single-page-cv
